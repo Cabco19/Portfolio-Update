@@ -177,6 +177,12 @@
 .projects-section h2 {
   font-weight: 600;
 }
+.git-links a {
+  color: whitesmoke;
+}
+.git-links a:hover {
+  color: #b8c7c6;
+}
 .projects-section .featured-text {
   padding: 2rem;
 }
