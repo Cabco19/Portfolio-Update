@@ -223,7 +223,7 @@
   background-attachment: scroll;
   background-size: cover;
 }
-.signup-section .form-inline input {
+.contact-section .form-inline input {
   box-shadow: 0 0.1875rem 0.1875rem 0 rgba(0, 0, 0, 0.1) !important;
   padding: 1.25rem 2rem;
   height: auto;
@@ -234,6 +234,7 @@
   border: 0;
 }
 .contact-section {
+  background-color: black;
   padding: 5rem 0 0;
 }
 .contact-section .card {
